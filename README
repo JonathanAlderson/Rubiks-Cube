@@ -11,10 +11,14 @@ Fully solveable Rubiks Cube in C++.
 With many parameters to save.
 Please read full report.
 
-![](SHOWME.png)
 
 make
 ./RubiksCube
 
 
 Jonathan
+
+
+
+![](SHOWME.png)
+
