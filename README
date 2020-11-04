@@ -7,16 +7,14 @@ ______      _     _ _          _____       _
                                                       
 -----------------------------------------------------------
 
+Fully solveable Rubiks Cube in C++.
+With many parameters to save.
+Please read full report.
 
-Hello,
-
-thanks for marking my work.
-The write up is contained in "RubiksCubeReport-JonathanAlderson.pdf"
-
-To run
-
+![Image of Yaktocat](https://imgur.com/undefined)
 
 make
 ./RubiksCube
 
 
+Jonathan
