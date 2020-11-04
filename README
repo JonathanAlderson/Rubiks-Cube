@@ -11,9 +11,7 @@ Fully solveable Rubiks Cube in C++.
 With many parameters to save.
 Please read full report.
 
-![Image of Cubes](https://imgur.com/a/U4Ek3il)
-
-[Imgur](https://imgur.com/YWZE8nj)
+![](SHOWME.png)
 
 make
 ./RubiksCube
